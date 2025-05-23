@@ -1,0 +1,8 @@
+1. Coffee - 3.50
+2. Tea - 2.50
+3. Hot Chocolate - 4.00
+4. Muffin - 2.00
+5. Sandwich - 5.50
+6. Smoothie - 4.50
+7. Cookie - 1.50
+8. Water - 1.00
